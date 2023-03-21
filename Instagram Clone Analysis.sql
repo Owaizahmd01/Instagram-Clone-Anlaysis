@@ -1,4 +1,5 @@
--- CHALLENGES
+-- Author -> Owaiz Ahammed 
+-- CHALLENGES 
 
 /*We want to reward our users who have been around the longest.  
 Find the 5 oldest users.*/
